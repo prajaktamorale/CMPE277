@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FarmManager</string>
+    <string name="farmlabel">Farm Maintenance</string>
+    <string name="fanon">Fan ON</string>
+    <string name="fanoff">Fan OFF</string>
+    <string name="spoff">Sprinkler OFF</string>
+    <string name="spon">Sprinkler ON</string>
+    <string name="tempandhum">Temperature and Humidity</string>
+    <string name="fansp">Turn Fan and Sprinkler ON</string>
+    <string name="fanoncond">Temperature (F) &gt; 70 &amp; Temperature (F) &lt; 90</string>
+    <string name="fanspcond">Temperature (F) &gt; 90 &amp; Temperature (F) &lt; 125 </string>
+</resources>

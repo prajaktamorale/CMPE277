@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BroadcastDemo</string>
+    <string name="label">Temperature and Humidity</string>
+    <string name="temp">Temperature(F):</string>
+    <string name="humid">Humidity(%):</string>
+    <string name="set">SET</string>
+    <string name="cancel">CANCEL</string>
+
+</resources>
